@@ -8,6 +8,8 @@
 
 #EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" group-title="MYTV" tvg-logo="https://iili.io/1NqAMl.png",Awesome TV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key="YSwHT9sL5Shb0bsZn6ttPPUXYemuo5V8Drszl7Ww4tZEUIL9lJERXkgB9HLB4k9D"
 
 
 #######################################################################################################################################################################
