@@ -18,6 +18,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTVLCOPT :sub-flie=https://raw.githubusercontent.com/bishrunhacking/subtitle/main/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%202022%201080p%20WEB-DL%20DDP5%201%20Atmos%20H%20264-EVO-Malay.srt
 https://fvs.io/redirector?token=ZW5HN1kzN0RPRi9rWUdvbXJMQnZVb2lEMTFrL2phcFVsWnFpQXFYd3NlZjUvTmNZLytSaXBSYzU5anBkSFRraUxobGFsakVncXk5QTRuS2NlbHpVWXhwNW51TnEwTlZ2Y2NuZkR3UEFLdldsS0tBYmJBTXJhc1Mvc2dyNC9VaFpOTTdHRzNObzNEOEVDdEpLa3ZYdWZ4WUZGZDVxTjRBcm01UUhBdz09OkxydmMvNFpDT1ZpckpYQzVxK3pKdUE9PQAKzF
 
-#EXTINF:0, type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU"
-subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD",Doctor Strange in the Multiverse of Madness
+#EXTINF:-1, type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU"
+subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD",Doctor Strange in the Multiverse of Madness 2
 https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022/master_480.m3u8#.mp4
