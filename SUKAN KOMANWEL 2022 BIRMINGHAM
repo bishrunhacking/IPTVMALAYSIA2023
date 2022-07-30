@@ -22,9 +22,22 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg5/chunklist_b4596000_slENG.m3
 #EXTINF:-1 tvg-id="011" tvg-name="RTM CHANNEL 6" group-title="RTM CHANNEL" tvg-logo="https://komanwel2022.rtm.gov.my/assets/img/rtm_bir_bro.png",RTM CHANNEL 6
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg6/chunklist_b4596000_slENG.m3u8
 
-SUKAN
-#EXTINF:-1 tvg-id="802" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",ASTRO ARENA 2 (A)
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
+ASTRO SUPERSPORT KOMANWELL 2022 LIVE
+
+#EXTINF:-1 tvg-id="803" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASTRO SUPERSPORT
+https://daddylive.herokuapp.com/index.php?id=premium123
+
+#EXTINF:-1 tvg-id="803" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASTRO SUPERSPORT
+https://daddylive.herokuapp.com/index.php?id=premium124
+
+#EXTINF:-1 tvg-id="803" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASTRO SUPERSPORT
+https://daddylive.herokuapp.com/index.php?id=premium125
+
+#EXTINF:-1 tvg-id="803" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASTRO SUPERSPORT
+https://daddylive.herokuapp.com/index.php?id=premium126
+
+#EXTINF:-1 tvg-id="803" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ASTRO SUPERSPORT
+https://daddylive.herokuapp.com/index.php?id=premium123
 
 VOD
 
