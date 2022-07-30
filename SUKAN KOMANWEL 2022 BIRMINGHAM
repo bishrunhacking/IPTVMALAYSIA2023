@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" refresh="3600"
+
+
+RTM KOMANWEL 2022 LIVE
+
+#EXTINF:-1 tvg-id="011" tvg-name="RTM CHANNEL 1" group-title="RTM CHANNEL" tvg-logo="https://komanwel2022.rtm.gov.my/assets/img/rtm_bir_bro.png",RTM CHANNEL 1
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg1/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="011" tvg-name="RTM CHANNEL 2" group-title="RTM CHANNEL" tvg-logo="https://komanwel2022.rtm.gov.my/assets/img/rtm_bir_bro.png",RTM CHANNEL 2
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg2/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="011" tvg-name="RTM CHANNEL 3" group-title="RTM CHANNEL" tvg-logo="https://komanwel2022.rtm.gov.my/assets/img/rtm_bir_bro.png",RTM CHANNEL 3
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg3/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="011" tvg-name="RTM CHANNEL 4" group-title="RTM CHANNEL" tvg-logo="https://komanwel2022.rtm.gov.my/assets/img/rtm_bir_bro.png",RTM CHANNEL 4
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg4/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="011" tvg-name="RTM CHANNEL 5" group-title="RTM CHANNEL" tvg-logo="https://komanwel2022.rtm.gov.my/assets/img/rtm_bir_bro.png",RTM CHANNEL 5
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg5/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="011" tvg-name="RTM CHANNEL 6" group-title="RTM CHANNEL" tvg-logo="https://komanwel2022.rtm.gov.my/assets/img/rtm_bir_bro.png",RTM CHANNEL 6
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg6/chunklist_b4596000_slENG.m3u8
+
+SUKAN
+#EXTINF:-1 tvg-id="802" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",ASTRO ARENA 2 (A)
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
+
+VOD
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://amayei.nyc3.digitaloceanspaces.com/2022/05/F603F261-57DA-4254-B96D-C3D72A8B535F.jpeg" subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" ,Doctor strange in the multiverse of madness (2022)
+https://sv3.hivamovie.com/new/Movie/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.In.The.Multiverse.Of.Madness.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.HivaMovie.mp4
+
+#EXTINF:-1, type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU"
+subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD",Doctor Strange in the Multiverse of Madness 2
+https://sv3.hivamovie.com/new/Movie/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.In.The.Multiverse.Of.Madness.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.HivaMovie.mp4
