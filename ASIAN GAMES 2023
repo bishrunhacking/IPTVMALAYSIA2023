@@ -72,3 +72,54 @@ http://20.2.70.178:1700/asiad19/pptv
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", RCTI
 http://0.tcp.ap.ngrok.io:10506/3958/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", MNC TV
+
+
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 1 (Server 01)
+http://stream.cvmtv.site:8002/EV01?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 1 (Server 02)
+http://asiad1.cvmtv.site:8002/EV01?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 1 (Server 03)
+http://asiad2.cvmtv.site:8002/EV01?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 1 (Server 04)
+https://asia.vthanhtivi.pw/asiad1/index.m3u8
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 2 (Server 01)
+http://stream.cvmtv.site:8002/EV02?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 2 (Server 02)
+http://asiad1.cvmtv.site:8002/EV02?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 2 (Server 03)
+http://asiad2.cvmtv.site:8002/EV02?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 2 (Server 04)
+https://asia.vthanhtivi.pw/asiad2/index.m3u8
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 3 (Server 01)
+http://stream.cvmtv.site:8002/EV03?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 3 (Server 02)
+http://asiad1.cvmtv.site:8002/EV03?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 3 (Server 03)
+http://asiad2.cvmtv.site:8002/EV03?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 3 (Server 04)
+https://asia.vthanhtivi.pw/asiad3/index.m3u8
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 4 (Server 01)
+http://stream.cvmtv.site:8002/EV04?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 4 (Server 02)
+http://asiad1.cvmtv.site:8002/EV04?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 4 (Server 03)
+http://asiad2.cvmtv.site:8002/EV04?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 4 (Server 04)
+https://asia.vthanhtivi.pw/asiad4/index.m3u8
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 5 (Server 01)
+http://stream.cvmtv.site:8002/EV05?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 5 (Server 02)
+http://asiad1.cvmtv.site:8002/EV05?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 5 (Server 03)
+http://asiad2.cvmtv.site:8002/EV05?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 5 (Server 04)
+https://asia.vthanhtivi.pw/asiad5/index.m3u8
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 6 (Server 01)
+http://stream.cvmtv.site:8002/EV06?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 6 (Server 02)
+http://asiad1.cvmtv.site:8002/EV06?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 6 (Server 03)
+http://asiad2.cvmtv.site:8002/EV06?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 6 (Server 04)
+https://asia.vthanhtivi.pw/asiad6/index.m3u8
+
