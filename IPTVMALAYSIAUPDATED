@@ -2,29 +2,11 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" refresh="3600"
 
 
-MYTV
+SPORT
 
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MYTV",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="Sports AST" tvg-id="SPOTV2" tvg-name="SPOTV2", SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MYTV",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-
-#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" group-title="MYTV" tvg-logo="https://iili.io/1NqAMl.png",Awesome TV 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
-SUKAN
-#EXTINF:-1 tvg-id="802" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",ASTRO ARENA 2 (A)
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
-
-VOD
-
-#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://amayei.nyc3.digitaloceanspaces.com/2022/05/F603F261-57DA-4254-B96D-C3D72A8B535F.jpeg" subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" ,Doctor strange in the multiverse of madness (2022)
-https://sv3.hivamovie.com/new/Movie/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.In.The.Multiverse.Of.Madness.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.HivaMovie.mp4
-
-#EXTINF:-1, type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU"
-subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD",Doctor Strange in the Multiverse of Madness 2
-https://sv3.hivamovie.com/new/Movie/Doctor.Strange.in.the.Multiverse.of.Madness.2022/Doctor.Strange.In.The.Multiverse.Of.Madness.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.HivaMovie.mp4
 
